@@ -21,6 +21,3 @@ ___________________________________________
 Generated a list of violations and recommendations for a test model of a Coursera discussion forum using Nielsen’s usability heuristics
 ___________________________________________
 
-<b>“10000 Floor Elevator Sketches.pdf”</b>: https://github.com/Jeromepullen/UX-Research-Projects/blob/master/10000%20Floor%20Elevator%20Sketches.pdf
-Sketched 20 different designs for a control interface of a hypothetical elevator that services every floor of a 10,000 floor building
-___________________________________________
